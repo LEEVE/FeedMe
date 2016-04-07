@@ -1,0 +1,228 @@
+	
+#map_canvas {
+
+	z-index: 1;
+	width: 740px;
+	height: 640px;
+	border: 1px solid grey;
+}
+
+.add-dets {
+	margin-left: 40px;
+	width: 1000px;
+	position: relative;
+}
+#listing {
+
+	width: 200px; 
+	height: 640px;
+	overflow: auto;
+margin-top: 20px;
+	cursor: pointer;
+	overflow-x: hidden;
+	border: 1px solid lightgrey;
+}
+#rankBy{
+	display: inline-block;
+
+}
+#controlLabel{
+	display: inline-block;
+	white-space: nowrap;
+}
+#controls {
+
+	width: 740px;
+	text-align: right;
+	padding-top: 2px;
+
+}
+
+#keywordField {
+	width: 220px;
+	height: 25px;
+	margin-top: -5px;
+	position: absolute;
+	z-index: 3;
+}
+
+#step{
+	width: 1400;
+
+
+	display: inline-block;
+}
+#step2{
+	width: 1400;
+	margin-top: 255px;
+	display: inline-block;
+}
+
+
+
+
+.placeIcon {
+	width: 32px;
+	height: 37px;
+	margin: 4px;
+}
+#instructions{
+
+	width:230px;
+	text-align: center;
+	padding-left: 25px;
+	padding-top: 30px;
+	margin: 0 0;
+	background: rgba(0,0,50,0.8);
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
+	height: 230px;
+	color: white;
+	font-size: large;
+	border-style: solid;
+	border-color: white;
+	border-radius: 200px 200px 200px;
+
+}
+#instructions2{
+	margin-bottom: 320px;
+	width:230px;
+	padding-left: 20px;
+	padding-top: 25px;
+	margin-left: 0;
+	height: 230px;
+	text-align: center;
+	font-size: large;
+	background: rgba(0,0,50,1);
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
+	color: white;
+	border-style: solid;
+	border-color: white;
+	border-radius: 200px 200px 200px;
+}
+.mapresults{
+	padding-left: 30px;
+}
+#instructions3{
+	margin-bottom: 320px;
+	width:220px;
+	padding-left: 50px;
+	margin-left: 0;
+	
+
+
+
+	
+
+}
+.hotelIcon {
+	width: 24px;
+	height: 24px;
+}
+#user_add{
+
+	width: 940px;
+	
+	padding-left: 20px;
+	
+}
+
+#user_add_inner{
+	padding: 0 0;
+	width: 940px;
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.6);
+
+
+
+}
+#autocomplete{
+	height: 70px;
+	font-size: large;
+}
+
+#box2{
+	display: inline-block;
+	margin: auto auto;
+	vertical-align: middle;
+}
+#resultsTable {
+	border-collapse: collapse;
+	width: 240px;
+}
+#rating {
+	font-size: 13px;
+	font-family: Arial Unicode MS;
+}
+
+.iw_table_row {
+	height: 18px;
+}
+.iw_attribute_name {
+	font-weight: bold;
+	text-align: right;
+}
+#iconCredit {
+	position: absolute;
+	top: 472px;
+	left: 0;
+	font-size: 11px;
+	text-align: right;
+	width: 640px;
+	font-style: italic;
+}
+
+#rest_add{
+	z-index: 2;
+	position: absolute;
+	padding-top: 40px;
+	width: 600px;
+
+
+}
+#rest_txt{
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+	padding: 0 0;
+	margin-left: 10px;
+	margin-top: 0px;
+}
+
+legend {
+	text-align: center;
+}
+
+label {
+	text-align: center;
+}
+
+
+
+
+#framemap {
+	margin: auto 60px;
+}
+
+
+#letsgo {
+	width: 600px;
+	margin: auto 60px;
+}
+
+body {
+	font-family: sans-serif;
+	font-size: 14px;
+	margin: 0;
+	padding: 0;
+}
+
+table {
+	font-size: 12px;
+}
+legend{
+	width: 1300px;
+}
+
+.container{
+	width:1300px;
+}
+
+
+
